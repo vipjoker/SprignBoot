@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+gradle
+.idea
+target
+build.gradle
+gradlew
+gradlew.bat
+gs-serving-web-content.iml
